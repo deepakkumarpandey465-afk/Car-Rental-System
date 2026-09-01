@@ -7,7 +7,7 @@ public class DataBaseConnection {
 
         String url = "jdbc:mysql://localhost:3306/car_rental_db";
         String username = "root";
-        String password = "Deepak@121";
+        String password = "YOUR_PASSWORD";
 
         try {
 
